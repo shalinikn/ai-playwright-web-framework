@@ -1,6 +1,6 @@
 # AI-Native Playwright Framework
 
-A beginner-friendly Playwright + TypeScript framework with AI features.
+ Playwright + TypeScript framework with AI features.
 The AI runs **locally and for free** with [Ollama](https://ollama.com), or in the cloud with Gemini.
 
 **Website under test:** https://www.saucedemo.com/
