@@ -123,3 +123,9 @@ add `GEMINI_API_KEY` as a repository secret.
 ## Tech stack
 
 Playwright · TypeScript · Node.js · Ollama / Gemini API · GitHub Actions
+
+## Reports
+
+<img width="1293" height="796" alt="Screenshot 2026-11-02 at 11 19 57 PM" src="https://github.com/user-attachments/assets/2e13a354-5433-4d52-9454-df2256120de4" />
+<img width="1245" height="739" alt="Screenshot 2026-11-02 at 11 19 40 PM" src="https://github.com/user-attachments/assets/6b21b17f-740a-4937-bb22-a63000c46867" />
+
